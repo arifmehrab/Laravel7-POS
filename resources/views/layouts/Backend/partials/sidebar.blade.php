@@ -37,7 +37,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-          <i class="fas fa-fw fa-folder"></i>
+          <i class="far fa-user"></i>
           <span>Manage Employees</span>
         </a>
         <div id="collapse1" class="{{ ($prefix == '/users')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -56,7 +56,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
-          <i class="fas fa-fw fa-folder"></i>
+         <i class="fas fa-sign-in-alt"></i>
           <span>Manage Suppliers</span>
         </a>
         <div id="collapse2" class="{{ ($prefix == '/supplier')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -74,7 +74,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
-          <i class="fas fa-fw fa-folder"></i>
+          <i class="fas fa-street-view"></i>
           <span>Manage Customers</span>
         </a>
         <div id="collapse3" class="{{ ($prefix == '/customer')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -99,7 +99,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
-          <i class="fas fa-fw fa-folder"></i>
+          <i class="fas fa-sync"></i>
           <span>Manage Units</span>
         </a>
         <div id="collapse4" class="{{ ($prefix == '/unit')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -117,7 +117,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
-          <i class="fas fa-fw fa-folder"></i>
+          <i class="fas fa-sliders-h"></i>
           <span>Manage Categories</span>
         </a>
         <div id="collapse5" class="{{ ($prefix == '/category')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -135,7 +135,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
-          <i class="fas fa-fw fa-folder"></i>
+          <i class="fab fa-product-hunt"></i>
           <span>Manage Products</span>
         </a>
         <div id="collapse6" class="{{ ($prefix == '/products')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -153,7 +153,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse7" aria-expanded="true" aria-controls="collapse7">
-          <i class="fas fa-fw fa-folder"></i>
+         <i class="fas fa-shopping-cart"></i>
           <span>Manage Purchase</span>
         </a>
         <div id="collapse7" class="{{ ($prefix == '/purchase')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -176,7 +176,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse8" aria-expanded="true" aria-controls="collapse8">
-          <i class="fas fa-fw fa-folder"></i>
+         <i class="fas fa-file-invoice-dollar"></i>
           <span>Manage Invoice</span>
         </a>
         <div id="collapse8" class="{{ ($prefix == '/invoice')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -196,7 +196,7 @@
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse9" aria-expanded="true" aria-controls="collapse9">
-          <i class="fas fa-fw fa-folder"></i>
+         <i class="fab fa-stack-overflow"></i>
           <span>Manage Stock!</span>
         </a>
         <div id="collapse9" class="{{ ($prefix == '/stock')?'collapse show':'collapse' }}" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
